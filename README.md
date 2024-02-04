@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://i.postimg.cc/QxSZFVKd/Dise-o-sin-t-tulo-1.png">
+  <img align="right" width="50%" src="https://i.postimg.cc/QxSZFVKd/Dise-o-sin-t-tulo-1.png">
 </div>
 
 <!--Header Name-->
