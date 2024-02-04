@@ -1,39 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        #container {
-            max-width: 600px;
-            margin: 50px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        img {
-            border-radius: 50%;
-            max-width: 150px;
-            margin-bottom: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <div id="container">
-        <img src="tu_foto.jpg" alt="Foto de perfil">
-        <h1>Hola, soy Alexander</h1>
-        <p>Estudiante de Ingeniería de Sistemas e Informática 💻. Desarrollo web y habilidades en equipo ⏰.</p>
-    </div>
-</body>
-</html>
+<!--Banner-->
+[![BANNER-ALEXANDER-MINAYA.png](https://i.postimg.cc/tCFHp2pW/BANNER-ALEXANDER-MINAYA.png)](https://postimg.cc/6y6PhV7p)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# 👨🏽‍💼 I'm Alexander! 
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">Student of the last cycle of the Systems Engineering and Computer Science Career at UTP, prepared to face challenges in the areas of Engineering giving the best of me for any task that I develop, especially giving solution to any problem. </p>
+
+- ✨ Systems and Computer Science student.
+- 👨‍💻 I train to acquire knowledge in Programming Languages and Database Managers to apply in the working world.
+- 😀 I am persistent, proactive, responsible and team player.
+- 💻 Visit my [Portfolio](https://github.com/alexanderminayarv) for more details about me.
+<!--End Intro-->
+
+---
+<br />
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=cs,bootstrap,java,js,html,css,firebase,git,github,postman,php,jquery,mysql&perline=7"  />
+</p>
+<br />
