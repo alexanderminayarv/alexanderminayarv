@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="43.7%" src="https://i.postimg.cc/ZYFSnxB1/developer-male.jpg">
+  <img align="right" width="43.7%" src="https://i.postimg.cc/BbR3gPPX/bg-github.png">
 </div>
 
 <!--Header Name-->
